@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1480200392 source:d:\codeblocks projects\glsl_project1\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1480200390 d:\codeblocks projects\glsl_project1\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1480200390 d:\codeblocks projects\glsl_project1\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1484807001 source:d:\4-2\graphics sessional\starter_code_week3\camera.cpp
+	"Camera.h"
+
+1484808308 d:\4-2\graphics sessional\starter_code_week3\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1484807240 d:\4-2\graphics sessional\starter_code_week3\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1484807409 d:\4-2\graphics sessional\starter_code_week3\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1484779444 d:\4-2\graphics sessional\starter_code_week3\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1484807321 d:\4-2\graphics sessional\starter_code_week3\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1480200392 source:d:\4-2\graphics sessional\starter_code_week3\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1480200390 d:\4-2\graphics sessional\starter_code_week3\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1480200390 d:\4-2\graphics sessional\starter_code_week3\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1534529593 source:d:\4-2\graphics sessional\starter_code_week3\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1532716916 d:\4-2\graphics sessional\starter_code_week3\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1484807282 d:\4-2\graphics sessional\starter_code_week3\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1484810693 source:d:\4-2\graphics sessional\starter_code_week3\mat4f.cpp
+	"Mat4f.h"
+
+1532720703 source:d:\4-2\graphics sessional\starter_code_week3\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1445967414 source:d:\4-2\graphics sessional\starter_code_week3\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1484807200 source:d:\4-2\graphics sessional\starter_code_week3\shadertools.cpp
+	"ShaderTools.h"
+
+1484807221 source:d:\4-2\graphics sessional\starter_code_week3\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
+1484807001 source:d:\4-2\graphics sessional\201514038\camera.cpp
+	"Camera.h"
+
+1484808308 d:\4-2\graphics sessional\201514038\include\camera.h
+	<iostream>
+	"Vec3f.h"
+	"Mat4f.h"
+	"Quat4f.h"
+	"OpenGLMatrixTools.h"
+
+1484807240 d:\4-2\graphics sessional\201514038\include\vec3f.h
+	<iostream>
+	<cmath>
+	<algorithm>
+
+1484807409 d:\4-2\graphics sessional\201514038\include\mat4f.h
+	<assert.h>
+	<memory>
+	<initializer_list>
+	<array>
+	<functional>
+	<algorithm>
+	<iterator>
+	<iostream>
+
+1484779444 d:\4-2\graphics sessional\201514038\include\quat4f.h
+	<ostream>
+	<cmath>
+	"Vec3f.h"
+	"Mat4f.h"
+
+1484807321 d:\4-2\graphics sessional\201514038\include\openglmatrixtools.h
+	<cmath>
+	"Mat4f.h"
+	"Vec3f.h"
+
+1480200392 source:d:\4-2\graphics sessional\201514038\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
+1480200390 d:\4-2\graphics sessional\201514038\glad\include\glad\glad.h
+	<windows.h>
+	<stddef.h>
+	<KHR/khrplatform.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1480200390 d:\4-2\graphics sessional\201514038\glad\include\khr\khrplatform.h
+	<sys/cdefs.h>
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1536130423 source:d:\4-2\graphics sessional\201514038\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	<limits>
+	"glad/glad.h"
+	<GLFW/glfw3.h>
+	"ShaderTools.h"
+	"Vec3f.h"
+	"Mat4f.h"
+	"OpenGLMatrixTools.h"
+	"Camera.h"
+
+1532716916 d:\4-2\graphics sessional\201514038\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1484807282 d:\4-2\graphics sessional\201514038\include\shadertools.h
+	"glad/glad.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1484810693 source:d:\4-2\graphics sessional\201514038\mat4f.cpp
+	"Mat4f.h"
+
+1532720703 source:d:\4-2\graphics sessional\201514038\openglmatrixtools.cpp
+	"OpenGLMatrixTools.h"
+	<cmath>
+
+1445967414 source:d:\4-2\graphics sessional\201514038\quat4f.cpp
+	"Quat4f.h"
+	<limits>
+
+1484807200 source:d:\4-2\graphics sessional\201514038\shadertools.cpp
+	"ShaderTools.h"
+
+1484807221 source:d:\4-2\graphics sessional\201514038\vec3f.cpp
+	"Vec3f.h"
+	<cmath>
+	<iostream>
+
